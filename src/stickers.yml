@@ -23,6 +23,12 @@
 #
 # ---------------- ⬇︎ PLEASE ADD NEW ENTRIES BELOW THIS LINE ⬇︎ -----------------
 
+e02a7ca1b0a22e7fcb288faffa77b961:
+  key: feeaf7f3ba5cb6bac0d2587346a2f81adfe9cf98563f5b68bb7ecee32769df97
+  nsfw: true
+  original: true
+  animated: true
+
 6157328274fd4c0706d1be2e683c23eb:
   key: e834b33986992e5ade335e441659dba7de37dbe9aa473ddff768f4427166ce4a
   source: HKUMed
@@ -33728,75 +33734,4 @@ cbc0261b03b764bc31b73118bce2905b:
     - barack
     - president
 
-625ca5991871b0e108b0b6491cad86ca:
-  key: 4798d9a693ffc24d48416c558278be6d142f34e9c1c7ea27287efa075d8fe6da
-
-5e797e64a41ef2f5bd62636da2bc9125:
-  key: e1bda885a1ef33a7346b40f67b2a59a6e2bd3b4e9ca601b3b937c21a24eb3eb0
-  nsfw: true
-
-58ec3151d27f892441ea9511c1930633:
-  key: 28ff19f21eac9a9326445684b3334c6bc62b9eee8e6a1a535093a56e0763a9b6
-
-586864bea3b2523d710175e627ce908f:
-  key: ae21fd6604d0d3a103f93f1ceb3eed6deb66044ff3ca1e679dc215e11cd60d2a
-
-402f15a3ca64fa862adba99b951a852b:
-  key: 1fd07b77dc8ab8cadfbe52faab4cdb10949dc2c24c413f733945b18c2dc87dfe
-
-401437daa1be985ca15752e9828d260c:
-  key: d4e6b48505520f54bf79ddb72043d247033e616b58b603e147990df14047bcbe
-
-3bcf28a078145848d87c638c976f46d7:
-  key: a6c5caba38d6a9f318f02a7747a060444b142d6e7dfb145496a1bc381c25aafd
-
-2e575897d248191bd03aaa5e0351f673:
-  key: e0843a2da010cb403535aca515dc68294febaaaa09fc50cb2644535fe715f6ce
-
-29f4f97db620c6b6885d1e56e26a934e:
-  key: 7a3bf9d6a68f3e9444dc07f4cc83704838d754a0425aecc9c56469ebeb092b44
-  tags:
-    - for children
-
-2745f59ea0444bffb1db0984cc0ae65c:
-  key: d1f656151045c812ca41cf65a1267d70d313e19925417aaa0e609d5f8e81ea7e
-
-186cbb983fd8613e2292692a6ba31557:
-  key: 33cc80357a10a7a0b162158f63eb6e98034472e0288a245bd02d07818208f399
-  tags:
-    - games
-    - Lucasarts
-    - Day of the Tentacle
-  original: true
-
-1626d07a5c2f2e87a5b994706790c342:
-  key: 927a3f9a2d0c1724541252a8d3fff42b6c7048f7584a5009ec1a153e3ec34427
-
-161ccbada485317175e32ef61473cea8:
-  key: e98d603f2cbd9ce946027314640e7769ef52fc14d69b7753724fe9ae5593c9a4
-
-123f678abcef7a39c0e710c051c68ae8:
-  key: 84e89503556fa3568485a89d113b70ff73a8822a6c9c5c524ba2c7428007551d
-
-4830e258138fca961ab2151d9596755c:
-  key: 87078ee421bad8bf44092ca72166b67ae5397e943452e4300ced9367b7f6a1a1
-  source: https://twitter.com/bitsoffreedom/status/1209384967593222145
-  tags:
-    - privacy
-    - internet
-    - freedom
-  original: true
-
-ae1d343accdec586fe19954a6be7aee9:
-  key: ffea9831b6af7617e4ab1b3868ce6f26f5c7c8ab3f05fb8d68b436f9253232ab
-  tags:
-    - cat
-    
-23bb56356ddc12b30d18ba4684d4b609:
-  key: bee8d1b9f8e82f22cfaa9ababcc30ed2b70afdaab8f3b2efc7b0c669fbff37e1
-  tags:
-    - cat
-    - meme
-    - cat meme
-
-# ------------ ⬆︎ PLEASE ADD NEW ENTRIES AT THE TOP OF THIS FILE ⬆︎ -------------
+625ca5991871b0e108b0b64
